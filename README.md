@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samehsaady&label=Profile%20views&color=0e75b6&style=flat" alt="samehsaady" /> </p>
 
-- 🌱 I’m currently learning **Full-stack Web Development**
-
 - 📫 How to reach me **samehsaady77@gmail.com**
 
 - 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/1UPy1F_oCGLnqjdRU9KmRgYEVD69-MrFD/view?usp=sharing)
